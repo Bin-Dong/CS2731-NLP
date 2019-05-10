@@ -1,0 +1,396 @@
+Training Unigram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 2gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 3gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 4gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 5gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 6gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 7gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 8gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Training 9gram
+Training Iteration: 5000
+Training Iteration: 10000
+Training Iteration: 15000
+Training Iteration: 20000
+Training Iteration: 25000
+Training Iteration: 30000
+Training Iteration: 35000
+Training Iteration: 40000
+Training Iteration: 45000
+Training Iteration: 50000
+Training Iteration: 55000
+Training Iteration: 60000
+Training Iteration: 65000
+Training Iteration: 70000
+Training Iteration: 75000
+Training Iteration: 80000
+Training Iteration: 85000
+Training Iteration: 90000
+Training Iteration: 95000
+Training Iteration: 100000
+Performing No Smoothing Test using english/train as training data and english/dev as testing data
+Counter is at 0
+              precision    recall  f1-score   support
+
+           9       0.00      0.00      0.00         0
+           e       0.00      0.00      0.00         0
+           +       0.00      0.00      0.00         0
+           n       0.76      0.67      0.71       779
+           6       0.00      0.00      0.00         1
+           ,       0.06      0.25      0.09         4
+           v       0.00      0.00      0.00         2
+           3       0.00      0.00      0.00         0
+           h       0.00      0.00      0.00         0
+           m       0.06      0.33      0.11         3
+           c       0.21      0.19      0.20        16
+           a       0.00      0.00      0.00         4
+           )       0.05      0.12      0.07         8
+           x       0.00      0.00      0.00         0
+           ^       0.00      0.00      0.00         3
+           '       0.00      0.00      0.00        21
+           C       0.29      0.15      0.20        47
+           ;       0.28      0.15      0.20        71
+           j       0.45      0.64      0.52        33
+           ?       0.44      0.35      0.39        23
+           O       0.25      0.28      0.26        18
+           o       0.12      0.20      0.15        15
+           5       0.18      0.50      0.26        10
+           _       0.25      0.21      0.23        14
+                   0.15      0.29      0.20         7
+           L       0.12      0.20      0.15        10
+           @       0.00      0.00      0.00         1
+           \       0.13      0.40      0.20         5
+           2       0.00      0.00      0.00         3
+           P       0.48      0.69      0.56        48
+           l       0.00      0.00      0.00         7
+           I       0.00      0.00      0.00         1
+           &       0.14      0.25      0.18         8
+           u       0.00      0.00      0.00         2
+           /       0.22      0.14      0.17        28
+           f       0.00      0.00      0.00         0
+           !       0.05      0.14      0.07         7
+           .       0.07      0.33      0.11         3
+           -       0.00      0.00      0.00         2
+           i       0.48      0.74      0.58        27
+           H       0.00      0.00      0.00         2
+           {       0.10      0.33      0.15         3
+           W       0.14      0.60      0.23         5
+           :       0.00      0.00      0.00         6
+           ~       0.12      0.21      0.15        14
+           A       0.00      0.00      0.00         0
+           g       0.47      0.89      0.62        19
+           7       0.00      0.00      0.00         3
+           S       0.00      0.00      0.00         1
+           q       0.06      0.50      0.10         2
+           J       0.00      0.00      0.00         3
+           Z       0.00      0.00      0.00         4
+           R       0.00      0.00      0.00         0
+           "       0.00      0.00      0.00         1
+           0       0.00      0.00      0.00         2
+           z       0.05      0.25      0.09         4
+           »       0.00      0.00      0.00         3
+           <       0.00      0.00      0.00         1
+           >       0.00      0.00      0.00         7
+           %       0.00      0.00      0.00         0
+           (       0.00      0.00      0.00         2
+           d       0.00      0.00      0.00         0
+           N       0.06      1.00      0.11         1
+           Q       0.00      0.00      0.00         0
+           r       0.09      1.00      0.17         1
+           Y       0.00      0.00      0.00         0
+           #       0.54      0.76      0.63        29
+           `       0.00      0.00      0.00         0
+           G       0.53      0.45      0.48       258
+           s       0.42      0.43      0.43        63
+           K       0.55      0.38      0.45        98
+           ]       0.59      0.51      0.55       124
+           p       0.74      0.57      0.64       446
+           E       0.33      0.21      0.26        71
+                  0.60      0.53      0.56        62
+                  0.56      0.51      0.53       173
+           M       0.52      0.37      0.43       300
+           D       0.06      0.17      0.09         6
+           =       0.66      0.59      0.62        56
+           B       0.68      0.60      0.64       165
+           k       0.49      0.37      0.42        91
+           X       0.62      0.50      0.56       228
+           w       0.62      0.46      0.53       262
+           8       0.48      0.41      0.44        86
+           t       0.00      0.00      0.00         1
+           b       0.66      0.48      0.56       197
+           4       0.58      0.48      0.53       223
+           U       0.58      0.52      0.55       352
+           	       0.64      0.54      0.59       142
+           y       0.33      0.44      0.37        32
+                  0.47      0.40      0.43        78
+           1       0.26      0.32      0.29        22
+           F       0.54      0.42      0.48        80
+           ø       0.08      0.05      0.06        19
+           *       0.00      0.00      0.00         0
+           |       0.00      0.00      0.00         0
+           [       0.00      0.00      0.00         0
+           $       0.00      0.00      0.00         0
+           V       0.00      0.00      0.00         0
+           T       0.00      0.00      0.00         0
+           }       0.47      0.26      0.33       101
+
+   micro avg       0.48      0.48      0.48      5080
+   macro avg       0.20      0.24      0.19      5080
+weighted avg       0.57      0.48      0.52      5080
+
+Total Correct: 2462 / Total 5080 = 0.48464566929133857
+Performing Smoothing Test using english/train as training data and english/dev as testing data
+Counter is at 0
+              precision    recall  f1-score   support
+
+           +       0.71      0.85      0.78       779
+           e       0.00      0.00      0.00         1
+           9       0.20      0.25      0.22         4
+           n       0.00      0.00      0.00         2
+           6       0.00      0.00      0.00         0
+           ,       0.00      0.00      0.00         3
+           v       0.38      0.19      0.25        16
+           3       0.00      0.00      0.00         4
+           h       0.50      0.75      0.60         8
+           m       1.00      0.33      0.50         3
+           c       0.00      0.00      0.00        21
+           a       0.44      0.26      0.32        47
+           )       0.39      0.24      0.30        71
+           x       0.67      0.79      0.72        33
+           '       0.60      0.52      0.56        23
+           C       0.35      0.50      0.41        18
+           ;       0.40      0.27      0.32        15
+           j       0.67      0.60      0.63        10
+           ?       0.67      0.57      0.62        14
+           O       0.29      0.29      0.29         7
+           o       0.60      0.30      0.40        10
+           5       0.00      0.00      0.00         1
+           _       0.67      0.40      0.50         5
+                   0.00      0.00      0.00         3
+           L       0.64      0.71      0.67        48
+           @       0.00      0.00      0.00         7
+           2       0.00      0.00      0.00         1
+           P       1.00      0.25      0.40         8
+           l       0.00      0.00      0.00         2
+           I       0.33      0.11      0.16        28
+           &       0.00      0.00      0.00         0
+           u       0.33      0.14      0.20         7
+           /       1.00      0.33      0.50         3
+           f       0.00      0.00      0.00         2
+           !       0.91      0.78      0.84        27
+           .       0.50      0.50      0.50         2
+           -       0.50      0.33      0.40         3
+           i       1.00      0.60      0.75         5
+           H       0.00      0.00      0.00         6
+           W       0.20      0.36      0.26        14
+           :       0.94      0.89      0.92        19
+           A       0.00      0.00      0.00         3
+           g       0.00      0.00      0.00         1
+           7       0.50      0.50      0.50         2
+           S       0.00      0.00      0.00         3
+           R       0.00      0.00      0.00         4
+           "       0.20      1.00      0.33         1
+           0       0.00      0.00      0.00         2
+           z       0.17      0.25      0.20         4
+           <       0.00      0.00      0.00         3
+           >       0.00      0.00      0.00         1
+           %       0.00      0.00      0.00         7
+           (       0.00      0.00      0.00         0
+           d       0.00      0.00      0.00         2
+           N       0.50      1.00      0.67         1
+           r       1.00      1.00      1.00         1
+           Y       1.00      0.79      0.88        29
+           #       0.00      0.00      0.00         0
+           `       0.55      0.57      0.56       258
+           G       0.61      0.65      0.63        63
+           s       0.48      0.45      0.47        98
+           K       0.65      0.62      0.63       124
+           ]       0.73      0.74      0.74       446
+           p       0.47      0.38      0.42        71
+           E       0.68      0.69      0.69        62
+           M       0.60      0.67      0.63       173
+           D       0.53      0.49      0.51       300
+           =       0.25      0.17      0.20         6
+           B       0.78      0.80      0.79        56
+           k       0.72      0.70      0.71       165
+           X       0.60      0.55      0.57        91
+           w       0.68      0.70      0.69       228
+           8       0.62      0.65      0.63       262
+           t       0.60      0.58      0.59        86
+           b       0.00      0.00      0.00         1
+           4       0.71      0.66      0.68       197
+           U       0.58      0.57      0.57       223
+           y       0.59      0.68      0.63       352
+           1       0.70      0.67      0.69       142
+           ø       0.58      0.59      0.58        32
+           F       0.55      0.44      0.49        78
+           |       0.47      0.41      0.44        22
+           [       0.56      0.55      0.56        80
+           V       1.00      0.11      0.19        19
+           T       0.00      0.00      0.00         0
+           q       0.59      0.40      0.47       101
+
+   micro avg       0.63      0.63      0.63      5080
+   macro avg       0.41      0.36      0.36      5080
+weighted avg       0.62      0.63      0.62      5080
+
+Total Correct: 3195 / Total 5080 = 0.6289370078740157
